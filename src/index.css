@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'nunito';
+  src: url('./assets/fonts/Nunito/Nunito-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'nunito-bold';
+  src: url('./assets/fonts/Nunito/Nunito-ExtraBold.ttf');
+}
+
+body {
+  margin: 0;
+  font-family: 'nunito' !important;
+  font-size: 16px !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
